@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ana-cell
 - 👀 I’m interested in python
-- 🌱 I’m currently learning ML with WEKA, Web Scrapping, Power BI, Bus
+- 🌱 I’m currently learning ML with WEKA, Web Scrapping, Power BI
 - 📫 How to reach me ...
 
 <!---
